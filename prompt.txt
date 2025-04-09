@@ -1,0 +1,51 @@
+#the prompt
+
+Create a space travel booking platform called "Dubai Stellar Gateway" that positions Dubai as the global hub for commercial space tourism. The platform should balance futuristic design with practical functionality.
+
+CORE REQUIREMENTS:
+
+Develop a responsive, modern React/Next.js application with:
+
+Clean, component-based architecture
+Intuitive navigation across all device types
+Space-themed UI with a luxury Dubai aesthetic
+Implement these key functional modules:
+
+a) TRIP SCHEDULING & BOOKING:
+
+Interactive solar system map for destination selection
+Calendar with real astronomical events affecting travel
+Seat class visualization (luxury, business, economy)
+Multi-step booking wizard with clear progress tracking
+b) PRICING & PACKAGES:
+
+Dynamic pricing based on destination, date, and seat class
+Package creator (combining accommodations, experiences)
+VIP zero-gravity experiences with virtual previews
+Loyalty/points system for frequent space travelers
+c) ACCOMMODATION RECOMMENDATIONS:
+
+AI-powered preference matching for lodging options
+3D virtual tours of space hotels and orbital stations
+Amenity filters (gravity levels, viewing ports, activities)
+Reviews from "previous travelers" with satisfaction metrics
+d) USER DASHBOARD:
+
+Mission control-style interface for managing bookings
+Real-time countdown timers for upcoming launches
+Personalized travel preparation guides and checklists
+Interactive space weather and orbital conditions display
+TECHNICAL SPECIFICATIONS:
+
+Frontend: React/Next.js with Tailwind CSS
+State management: Redux or Context API
+Animation: Framer Motion for smooth space-themed transitions
+Mock API: JSON Server or similar to simulate backend functionality
+3D elements: Three.js for immersive space visualization
+UNIQUE FEATURES TO IMPLEMENT:
+
+"Gravity Simulator" showing how different conditions feel
+"Space Window" live feed showing current views from orbit
+AR feature to preview space hotel rooms in your current location
+Digital space passport that collects stamps from destinations
+The design should incorporate Dubai's luxury aesthetic while maintaining a scientifically plausible space travel experience. All code should be well-documented, utilize modern best practices, and be optimized for performance
